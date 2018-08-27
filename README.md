@@ -28,10 +28,17 @@ If you failed install all package automatically, please install one by one using
 ### Running the tests
 
 This starter-template included gulp-sass, to compile sass (.scss file) to .css file, run the following command:
+
+To wacth changes and run automatically
+```
+gulp-watch
+```
+
+Run manually
 ```
 gulp process-css
 ```
-The file create:
+The file created:
 * main.css
 * main.min.css
 * main.min.css.map
