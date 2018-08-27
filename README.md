@@ -31,7 +31,7 @@ This starter-template included gulp-sass, to compile sass (.scss file) to .css f
 
 To wacth changes and run automatically
 ```
-gulp-watch
+gulp watch
 ```
 
 Run manually
